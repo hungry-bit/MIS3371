@@ -28,3 +28,7 @@ th{
     background-color: rgb(176, 232, 243);
     margin-left: 20px;
 }
+.error{
+    color: red;
+    font-size: 12px;
+}
